@@ -4,7 +4,7 @@
 <p>Welcome to my Github, I'm Manish Basargekar.</p>
 <p>I am a final year CS student who is interested <b>Web Development</b>, <b>UI design</b> and <b>indie hacking</b>.<br>
   I like to <b>write</b> and read when I'm free. Sharing my learnings <a href="https://mnsh.me/blog" target="_blank"> here </a>.<br> Currently enhancing my <b>writing and app building</b> skills. See what I am doing <a href="https://mnsh.me/now" target="_blank"> now </a>.
-<p>I also participate in <b>Hackathons!</b></p>
+<p>Oh and I also participate in <b>Hackathons!</b></p>
 
 
 <h3>Regularly work with</h3>
