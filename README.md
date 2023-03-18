@@ -1,10 +1,4 @@
-<!-- ![msnh](https://user-images.githubusercontent.com/64839201/222918169-f23f354d-cec7-45ce-b7c2-b4614749dca8.jpg) -->
-<a href="https://mnsh.me" target="_blank">
-<!--  <img src="https://user-images.githubusercontent.com/64839201/222918468-b67ed761-0c22-40f8-8e93-a4c2696e6deb.png" alt="MNSH" /> -->
-   <img src="https://user-images.githubusercontent.com/64839201/222918579-ac9df89c-54a7-4da0-b3d4-64d5d144091f.png" alt="MNSH" />
 
-
-</a>
 <h1> Hey! Nice to see you.</h1>
 
 <p>Welcome to my Github, I'm Manish Basargekar.</p>
