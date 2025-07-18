@@ -1,7 +1,7 @@
 
 <h2> Hiya!</h1> 
 
-<img src="https://github.com/user-attachments/assets/1326cd6d-2be4-4d5e-ac42-c52f47b23953" alt="Wizard Cat" style="width: 620px; border-radius: 12px;" />
+<img src="https://github.com/user-attachments/assets/1326cd6d-2be4-4d5e-ac42-c52f47b23953" alt="Wizard Cat" style="width: 420px; border-radius: 12px;" />
 
 <p></p>
 
