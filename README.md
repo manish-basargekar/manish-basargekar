@@ -1,7 +1,7 @@
 
 <h2> Hiya!</h1> 
 
-<img src="https://github.com/user-attachments/assets/1326cd6d-2be4-4d5e-ac42-c52f47b23953" alt="Wizard Cat" style="width: 420px; border-radius: 12px;" />
+
 
 <p></p>
 
@@ -17,3 +17,4 @@ X
 <p>Used to pull all-nighters at <a href="https://devpost.com/mnsh" target="_blank"><b>hackathons</b></a>. Now I just build for fun (and sanity).</p>
 
 <p>💌 Email me at <a href="mailto:hey@mnsh.me">hey@mnsh.me</a> or DM me on X </p>
+
