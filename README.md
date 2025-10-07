@@ -1,5 +1,6 @@
 
 <h2> Hiya!</h1> 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/1432fb9f-6ff2-4aa2-a4e1-575c75448010" />
 
 
 
@@ -17,4 +18,5 @@ X
 <p>Used to pull all-nighters at <a href="https://devpost.com/mnsh" target="_blank"><b>hackathons</b></a>. Now I just build for fun (and sanity).</p>
 
 <p>💌 Email me at <a href="mailto:hey@mnsh.me">hey@mnsh.me</a> or DM me on X </p>
+
 
